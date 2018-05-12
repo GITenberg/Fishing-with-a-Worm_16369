@@ -1,0 +1,28 @@
+_repo: Fishing-with-a-Worm_16369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perry, Bliss
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '1188'
+    url: http://www.gutenberg.org/2009/agents/1188
+    wikipedia: http://en.wikipedia.org/wiki/Bliss_Perry
+description: ''
+gutenberg_issued: '2005-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16369'
+  lccn: '16005891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fishing'
+title: Fishing with a Worm
+url: http://www.gutenberg.org/ebooks/16369
